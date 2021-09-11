@@ -14,7 +14,7 @@ It’s easier to test than object-oriented code
 ## Higher-Order Functions
 Higher-order functions are a big part of functional programming. A higher-order function is a function that either takes a function(s) as a parameter or returns a function.
 
-###Functions and ###immutable data are the only two things you need to ever deal with in functional programming. 
+### Functions and ### immutable data are the only two things you need to ever deal with in functional programming. 
 
 Functions in functional programming can be passed around as easily as data.You can refer to them from constants and variables, pass them as parameters to other functions, and return them as results from other functions.
 
@@ -24,7 +24,7 @@ We can break any complex problem down into smaller sub-problems, solve them usin
 
 ![Alt Text](https://www.freecodecamp.org/news/content/images/2019/11/1_1kZojkIWzzSASoxtu3SctQ.png)
 
-##Advantages
+## Advantages
 1. Easier to understand (that is, “expressive”)
 2. Easier to reuse
 3. Easier to test
